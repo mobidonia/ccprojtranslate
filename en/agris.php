@@ -1,0 +1,31 @@
+<?php
+
+return array (
+  'home'=>"Home",
+  'dashboard'=>"Dashboard",
+  'product'=>"Product",
+  'pricing'=>"Pricing",
+  'testimonials'=>"Testimonials",
+  'faq'=>"FAQ",
+  'login'=>"Login",
+  'slogan_subtitle'=>"Join our platform and",
+  'slogan'=>"Make agriculture great again",
+  'form_title'=>"Get started for free",
+  'form_input_name'=>"Enter company or personal name",
+  'form_input_email'=>"Enter your email address",
+  'form_input_phone'=>"Phone",
+  'form_sign_up'=>"Sign Up",
+  'i_agree_to' => 'I agree to the',
+  'and'=>"and",
+  'privacy_policy' => 'Privacy Policy',
+  'terms_of_service' => 'Terms of Service',
+  'product_title'=>"All the tools you need to grow",
+  'product_subtitle'=>"We have heard the farmers needs. From seed to sell, we got you covered.",
+  'pricing_title'=>"Pricing Plans",
+  'pricing_subtitle'=>"Our plans were crafted specifically to help you succeed.",
+  'start_now'=>"Start now",
+  'testimonial_subtitle'=>"Why our customers love our product",
+  "testimonial_info"=>"Don't just take our word for it, read from our extensive list of case studies and customer testimonials.",
+  'fr_as_qu'=>"Frequently Asked Questions",
+  'faq_subtitle'=>"Here are some of the most common frequently asked questions"
+);
